@@ -1,4 +1,4 @@
 # Define the variable board below.
-board = my_array
+board = ""
 
-my_array = Array.new[" "," "," "," "," "," "," "," "," "]
+board = Array.new[" "," "," "," "," "," "," "," "," "]
